@@ -98,11 +98,3 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=toshi-hm&theme=tokyonight&no-frame=true&margin-w=4" alt="GitHub achievement trophies displaying earned badges and milestones" />
-</p>
-
----
-
