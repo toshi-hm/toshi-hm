@@ -11,17 +11,19 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=toshi-hm&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+<p align="center">
+  <a href="https://toshi-page.mayabase.workers.dev" >My Page</a>
+</p>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I'm a front-end engineer at a Japanese web company.
+- 🔭 I'm a front-end engineer & system planner at a Japanese web company.
 - 🎓 I completed a master’s degree in artificial intelligence in 2026.
 - 🌱 I'm currently building web products with Astro, React, Vue, and cloud-native services.
 
 ## 🚀 Recent Projects
 
 - 🌐 [mypage](https://github.com/toshi-hm/mypage) — My personal website built with Astro, React islands, Three.js, and Cloudflare Workers.
-- 🎬 [MayaBase](https://github.com/toshi-hm/mayabase) — A fast, accessible portal for a YouTube channel, powered by Astro and an automated content pipeline.
 - 🏠 [housekeeper](https://github.com/toshi-hm/housekeeper) — A PWA for managing household supplies and groceries with React, Supabase, and barcode scanning.
 - 📔 [Dialy](https://github.com/toshi-hm/dialy) — A diary app for revisiting entries from the same date in previous years, built with Next.js, Prisma, and PostgreSQL.
 - 🤖 [Security Robot RL](https://github.com/toshi-hm/security-robot-fe) — A reinforcement-learning system with a Nuxt dashboard and a [FastAPI backend](https://github.com/toshi-hm/security-robot-be).
