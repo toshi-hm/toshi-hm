@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=toshi-hm&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 <p align="center">
-  <a href="https://toshi-page.mayabase.workers.dev" >My Page</a>
+  <a href="https://toshi-page.mayabase.workers.dev" >My Homepage</a>
 </p>
 
 ## 🙋‍♂️ About Me
@@ -25,17 +25,8 @@
 
 - 🌐 [mypage](https://github.com/toshi-hm/mypage) — My personal website built with Astro, React islands, Three.js, and Cloudflare Workers.
 - 🏠 [housekeeper](https://github.com/toshi-hm/housekeeper) — A PWA for managing household supplies and groceries with React, Supabase, and barcode scanning.
-- 📔 [Dialy](https://github.com/toshi-hm/dialy) — A diary app for revisiting entries from the same date in previous years, built with Next.js, Prisma, and PostgreSQL.
+- 🔗 [pagelink-copy-button](https://github.com/toshi-hm/pagelink-copy-button) - A Chrome extension that copies the current page title and URL as a clickable hyperlink.
 - 🤖 [Security Robot RL](https://github.com/toshi-hm/security-robot-fe) — A reinforcement-learning system with a Nuxt dashboard and a [FastAPI backend](https://github.com/toshi-hm/security-robot-be).
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toshi-hm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub statistics showing total stars, commits, PRs, issues, and contributions" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toshi-hm&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Bar chart showing top programming languages used" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=toshi-hm&theme=tokyonight&hide_border=true" alt="GitHub contribution streak statistics showing current streak, longest streak, and total contributions" />
-</p>
 
 ---
 
