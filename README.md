@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/toshi-hm">
-    <img src="https://readme-typing-svg.demolab.com?font=LINE+Seed+JP&weight=700&size=30&pause=1000&color=FFFFFF&background=FF0000&center=true&vCenter=true&random=true&lines=IT%E3%81%A3%E3%81%A6%E3%81%99%E3%81%92%E3%83%BC%EF%BC%81;%E3%83%AF%E3%82%AF%E3%83%AF%E3%82%AF%E3%82%92%E3%82%82%E3%81%A3%E3%81%A8%E4%B8%96%E3%81%AE%E4%B8%AD%E3%81%AB%EF%BC%81;IT%E3%81%A3%E3%81%A6%E6%A5%BD%E3%81%97%E3%81%84%EF%BC%81" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=LINE+Seed+JP&weight=700&size=30&pause=1000&color=FFFFFF&background=FF0000&center=true&vCenter=true&width=435&lines=IT%E3%81%A3%E3%81%A6%E6%A5%BD%E3%81%97%E3%81%84%EF%BC%81;IT%E3%81%A3%E3%81%A6%E3%81%99%E3%81%94%E3%81%84%EF%BC%81;IT%E3%81%A7%E6%97%A5%E5%B8%B8%E3%82%92%E3%82%82%E3%81%A3%E3%81%A8%E4%BE%BF%E5%88%A9%E3%81%AB" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,10 +23,14 @@
 
 ## 🚀 Recent Projects
 
-- 🌐 [mypage](https://github.com/toshi-hm/mypage) — My personal website built with Astro, React islands, Three.js, and Cloudflare Workers.
 - 🏠 [housekeeper](https://github.com/toshi-hm/housekeeper) — A PWA for managing household supplies and groceries with React, Supabase, and barcode scanning.
-- 🔗 [pagelink-copy-button](https://github.com/toshi-hm/pagelink-copy-button) - A Chrome extension that copies the current page title and URL as a clickable hyperlink.
 - 🤖 [Security Robot RL](https://github.com/toshi-hm/security-robot-fe) — A reinforcement-learning system with a Nuxt dashboard and a [FastAPI backend](https://github.com/toshi-hm/security-robot-be).
+- 🌐 [mypage](https://github.com/toshi-hm/mypage) — My personal website built with Astro, React islands, Three.js, and Cloudflare Workers.
+
+## 🪄 Chrome Extensions
+
+- 🔗 [pagelink-copy-button](https://github.com/toshi-hm/pagelink-copy-button) - A Chrome extension that copies the current page title and URL as a clickable hyperlink.
+- 📝 [meet-subtitles-tool](https://github.com/toshi-hm/meet-subtitles-tool) -  A Chrome extension that lets you save Google Meet captions and review them from the beginning, even while the meeting is still in progress.
 
 ---
 
